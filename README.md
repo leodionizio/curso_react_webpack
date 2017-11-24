@@ -1,1 +1,3 @@
-# curso_react_webpack
+# Curso React da udemy
+
+#### Exercicios de Webpack
